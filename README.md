@@ -1,11 +1,16 @@
 Name : Harsh Kanojia
+
 Company Name : CODTECH IT SOLUTIONS
+
 ID : CT4CSEH3610
+
 Domain : Cyber Security and Ethical Hacking 
+
 Duration : JULY 1st,2024 to AUGUST 1st, 2024
+
 Mentor : 
 
-Overview of the project
+
 # Password Strength Checker
 
 ## Overview
