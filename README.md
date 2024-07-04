@@ -8,7 +8,7 @@ Domain : Cyber Security and Ethical Hacking
 
 Duration : JULY 1st,2024 to AUGUST 1st, 2024
 
-Mentor : 
+Mentor : SANTHOSH
 
 
 # Password Strength Checker
