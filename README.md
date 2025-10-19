@@ -1,56 +1,55 @@
-Name : Harsh Kanojia
+# 🔐 Password Strength Checker
 
-Company Name : CODTECH IT SOLUTIONS
+A simple yet powerful Python tool to help users create strong and secure passwords 💪
 
-ID : CT4CSEH3610
+This script evaluates password strength based on multiple criteria and provides real-time feedback using colorful terminal outputs powered by colorama.
 
-Domain : Cyber Security and Ethical Hacking 
+## ⚡ Features
 
-Duration : JULY 1st,2024 to AUGUST 1st, 2024
+✅ Evaluates passwords using the following checks:
 
-Mentor : SANTHOSH
+Minimum 8 characters
 
+At least 1 uppercase letter (A–Z)
 
-# Password Strength Checker
+At least 1 lowercase letter (a–z)
 
-## Overview
+At least 1 number (0–9)
 
-This Python script helps users create strong passwords by evaluating the entered password based on specific criteria and providing feedback. The script uses the `colorama` library to make the feedback visually engaging with colored text.
+At least 1 special character (e.g., !@#$%^&*)
 
-## Features
+🎯 Provides instant feedback to help improve weak passwords
+🌈 Uses color-coded output for an engaging terminal experience
 
-- Checks password strength based on the following criteria:
-  - At least 8 characters long
-  - Contains at least one uppercase letter (A-Z)
-  - Contains at least one lowercase letter (a-z)
-  - Contains at least one digit (0-9)
-  - Contains at least one special character (e.g., !@#$%^&*)
-- Provides user-friendly feedback to help improve password strength
-- Uses colored text for better user experience
+## 🧩 Requirements
 
-## Requirements
+Python 3.x
 
-- Python 3.x
-- `colorama` library
+colorama library
 
-## Installation
+## ⚙️ Installation
 
-1. Clone the repository:
-    ```bash
-    https://github.com/harsh-hak/CODTECH-Task-1.git
-.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd password_strength_checker
-    ```
-3. Install the required library:
-    ```bash
-    pip install colorama
-    ```
+Clone the repository:
+git clone https://github.com/harsh-hak/CODTECH-Task-1.git
 
-## Usage
+Navigate to the project folder:
+cd password_strength_checker
 
-Run the script by executing:
-```bash
+Install dependencies:
+pip install colorama
+
+## 🚀 Usage
+
+Run the script:
 python password_strength_checker.py
+
+python password_strength_checker.py
+
+## 🧠 About
+
+Built with ❤️ by https://www.linkedin.com/in/harsh-kanojia369/
+
+Made for learners who care about cybersecurity, usability, and clean code 🧑‍💻
+
+
+
